@@ -1,24 +1,17 @@
-# Проект - Путешествия по России с карточками
+# Personal project "Mesto. Be in the moment. Find your place" React
 
-Адаптивный под разные разрешения экранов сайт личной страницы поможет выбрать интересные места в России для путешествий, поставить лайки местам и возможность изменить информацию профиля, а также добавить новые места.
+## About the project:
+In our modern digital world it is crucial to be "in the moment" and fell connection with others. Instagram is an app to share and save memories. But what if we want to share or feel "this very moment". In Mesto app you could just saw the last few pictures of places that inspired a lot others to share them with the world. No need to spend your valuable time in social media. Just open an app - see what others saw just a few moments ago - save the place you inspired by - plan your next spontaneous journey. Don't try to analyze all places in social media. Here we have all that you need to be inspired. Be in the moment. Be happy!
 
-## Описание проекта
+## Technologies
+The project is designed to train skills in a real project, responsive web page layout skills and add interactivity to interface elements.
 
-В период пандении границы многих стран стали закрыты, а многие жители России привыкли проводить отпуска в основном заграницей. Сейчас люди испытывают трудности с поиском интересных и красивых мест для путешествия. Данный сайт поможет решить проблему с выбором и дает возможность формировать свои карточки интересных мест для посещения.
+Repository for the `Mesto` project application, which includes frontend and backend parts of the application with the following features: user authorization and registration, operations with cards and users. Place the backend in the `backend/` directory, and the frontend in `frontend/`.
 
-## Используемые технологии
-
-* Hyper Text Markup Language (HTML) – язык разметки гипертекста.
-* Cascading Style Sheets (CSS) — каскадные таблицы стилей — формальный язык описания внешнего вида документа, написанного с использованием языка разметки. CSS используется для задания цветов, шрифтов, расположения отдельных блоков и других аспектов представления внешнего вида веб-страниц.
-* Java Script (JS) - это мультипарадигменный язык программирования, который обычно применяется в качестве встраиваемого инструмента для программного доступа к различным объектам приложений.
-
-## Системные требования
-
-HTMLv5
-
-## Планы по доработке
-
-Сделать форма обратной связи по странице
-
-## Ссылка на GitHub Pages
-https://alexanderabramovpraktikum.github.io/mesto/
+In the process of creating the project, the following approaches and technologies were used:
+* HTML5
+* CSS3
+* Nested BEM
+* React (Router, Context, Custom hook)
+* Implementation of responsive design (desktop-first approach used)
+* Working with Figma (pixel-perfect layout)
